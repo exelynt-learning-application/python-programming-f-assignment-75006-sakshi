@@ -1,0 +1,27 @@
+Introduction to Python & Applications
+What is Python?
+
+Python is a high-level, interpreted, and general-purpose programming language. It is easy to learn because of its simple and readable syntax. Python supports multiple programming paradigms, including object-oriented, procedural, and functional programming. It is widely used in software development, web development, data science, artificial intelligence, automation, and many other fields.
+
+History of Python
+Python was created by Guido van Rossum in 1989.
+It was first released in 1991.
+The language was designed to make programming simple, readable, and efficient.
+Today, Python is one of the most popular programming languages in the world and is maintained by the Python Software Foundation (PSF).
+Key Features of Python
+1. Easy to Learn and Read
+
+Python has a simple syntax that makes it beginner-friendly.
+
+Example:
+
+print("Hello, World!")
+2. Interpreted Language
+
+Python executes code line by line without requiring compilation.
+
+Example:
+
+x = 10
+y = 20
+print(x + y)
