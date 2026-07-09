@@ -1,0 +1,86 @@
+Step 1: Verify Python Installation
+
+Open Command Prompt or Terminal and run:
+
+python --version
+
+or
+
+python3 --version
+
+Expected Output:
+
+Python 3.13.7
+
+(The version may be different depending on what you installed.)
+
+Step 2: Verify pip
+pip --version
+
+Example Output:
+
+pip 25.x from ...
+Step 3: Create a Python File
+
+Create a file named:
+
+hello.py
+
+Paste the following code:
+
+print("Hello, Python!")
+print("Python installation is successful.")
+Step 4: Run the Program
+
+In Terminal:
+
+python hello.py
+
+Output:
+
+Hello, Python!
+Python installation is successful.
+Step 5: Another Simple Python Command
+
+You can also execute Python directly from the terminal:
+
+python
+
+Then type:
+
+print("Hello World")
+x = 10
+y = 20
+print(x + y)
+
+Output:
+
+Hello World
+30
+
+Exit Python by typing:
+
+exit()
+
+or press:
+
+Ctrl + Z
+
+and then Enter (Windows).
+
+Screenshots You Should Submit
+
+Take screenshots of the following:
+
+Python installation
+
+python --version
+
+pip installation
+
+pip --version
+VS Code or PyCharm with hello.py open.
+
+Terminal output
+
+python hello.py
